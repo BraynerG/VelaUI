@@ -1,0 +1,29 @@
+{
+  "name": "velaui",
+  "version": "0.0.1",
+  "description": "Tailwind css based React component kit",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BraynerG"
+  },
+  "keywords": [
+    "Tailwind",
+    "css",
+    "React",
+    "components",
+    "ui"
+  ],
+  "author": "BraynerG",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.2.2"
+  },
+  "dependencies": {
+    "@types/react": "^18.2.22",
+    "react": "^18.2.0"
+  }
+}
